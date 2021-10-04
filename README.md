@@ -1,5 +1,5 @@
 - 👋 Hola, soy @GonzalezJimenezSalvador
-- 👀 Estoy estudiando en IES Punta del Verde DAM
+- 👀 Estoy estudiando DAM en IES Punta del Verde
 - 🌱 Aqui entrego mis tareas
 
 <!---
