@@ -1,5 +1,5 @@
 - 👋 Hola, soy @GonzalezJimenezSalvador
-- 👀 Estoy estudiando DAM en IES Punta del Verde
+- 👀 Estudio Desarrollo de Aplicaciones Multiplataforma en IES Punta del Verde
 - 🌱 Aqui entrego mis tareas
 
 <!---
