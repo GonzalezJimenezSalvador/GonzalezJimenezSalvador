@@ -1,6 +1,6 @@
 - 👋 Hola, soy @GonzalezJimenezSalvador
-- 👀 Estudio Desarrollo de Aplicaciones Multiplataforma en IES Punta del Verde
-- 🌱 Aqui entrego mis tareas
+- 👀 Soy Desarrollador de Aplicaciones Multiplataforma
+- 🌱 Aqui comparto mis proyectos
 
 <!---
 GonzalezJimenezSalvador/GonzalezJimenezSalvador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
